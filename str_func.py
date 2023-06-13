@@ -1,3 +1,4 @@
+
 def return_upper():
     """make upper"""
     s = input()
@@ -8,4 +9,3 @@ def up_title():
     s = input()
     return s.title()
 
-print(up_title())
