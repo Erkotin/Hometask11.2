@@ -1,4 +1,5 @@
 def return_upper():
+    """make upper"""
     s = input()
     return s.upper()
 
